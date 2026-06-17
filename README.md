@@ -1,2 +1,54 @@
-# AllTiledUpPrivacyPolicy
-Priv Policy for All-Tiled-Up
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+ 
+  
+
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>All Tiled Up</strong><br />Last updated: June 16, 2026</p>
+
+  <p>All Tiled Up is a tile and map editor. This policy explains how the app handles your information.</p>
+
+  <h2>The short version</h2>
+  <ul>
+    <li>You do not need an account to use the app.</li>
+    <li>Your maps, tiles, and settings are stored on your device.</li>
+    <li>We do not sell your data or run ads in the app.</li>
+    <li>We do not upload your artwork or projects to our servers.</li>
+  </ul>
+
+  <h2>What stays on your device</h2>
+  <p>The app saves your work locally so you can pick up where you left off. That can include painted maps, presets, imported images, and app settings. This information stays on your phone, tablet, or browser until you clear the app’s data or uninstall it.</p>
+
+  <h2>What we collect</h2>
+  <p>We do not collect personal information through normal use of the app. We do not ask for your name, email, or phone number to use the editor.</p>
+  <p>If you contact us through GitHub (see below), we only see what you choose to send in that message.</p>
+
+  <h2>Internet use</h2>
+  <p>The editor works offline. The app may use the internet in a few limited cases:</p>
+  <ul>
+    <li>Checking for app updates on Google Play (Android).</li>
+    <li>Processing a Pro purchase through Google Play, if you choose to buy one. Payments are handled by Google, not by us.</li>
+  </ul>
+  <p>Using the editor does not send your maps or tiles to us.</p>
+
+  <h2>Exports and sharing</h2>
+  <p>When you export files, you choose where they go—your device, a share sheet, cloud storage, and so on. Anything you share after that is up to you and the service you use.</p>
+
+  <h2>Children</h2>
+  <p>All Tiled Up is not aimed at children under 13, and we do not knowingly collect information from children.</p>
+
+  <h2>Deleting your data</h2>
+  <p>Because your projects live on your device, you can remove them by clearing the app’s storage or uninstalling the app.</p>
+
+  <h2>Changes</h2>
+  <p>We may update this policy when the app changes. The date at the top will change when we do.</p>
+
+  <h2>Contact</h2>
+  <p>Questions or concerns: <a href="https://github.com/Alexrgn/All-Tiled-Up/issues">GitHub Issues</a></p>
+</body>
+</html>
