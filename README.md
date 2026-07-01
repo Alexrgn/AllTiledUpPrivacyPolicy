@@ -3,13 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
- 
-  
+
+
 
 </head>
 <body>
   <h1>Privacy Policy</h1>
-  <p><strong>All Tiled Up</strong><br />Last updated: June 16, 2026</p>
+  <p><strong>All Tiled Up</strong><br />Last updated: July 1, 2026</p>
 
   <p>All Tiled Up is a tile and map editor. This policy explains how the app handles your information.</p>
 
@@ -26,7 +26,7 @@
 
   <h2>What we collect</h2>
   <p>We do not collect personal information through normal use of the app. We do not ask for your name, email, or phone number to use the editor.</p>
-  <p>If you contact us through GitHub (see below), we only see what you choose to send in that message.</p>
+  <p>If you contact us by email (see below), we only see what you choose to send in that message.</p>
 
   <h2>Internet use</h2>
   <p>The editor works offline. The app may use the internet in a few limited cases:</p>
@@ -49,6 +49,6 @@
   <p>We may update this policy when the app changes. The date at the top will change when we do.</p>
 
   <h2>Contact</h2>
-  <p>Questions or concerns: <a href="https://github.com/Alexrgn/All-Tiled-Up/issues">GitHub Issues</a></p>
+  <p>Questions or concerns: <a href="mailto:PluvianDev@Outlook.com">PluvianDev@Outlook.com</a></p>
 </body>
 </html>
